@@ -1,5 +1,7 @@
 <?php
 
+//【PHP/Laravel 12 ユーザー認証を実装する】の課題
+
 /*課題1
 【応用】 resources/views/layouts/profile.blade.php も編集して、 プロフィール編集画面にもログインリンクやログアウトリンクを表示するようにカスタマイズしましょう。*/
 /*以下がresources/views/layouts/profile.blade.phpのコード

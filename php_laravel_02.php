@@ -11,10 +11,14 @@ $a = 3;
 $b = 7;
 echo $a+$b;
 
+
+
 //課題２
 //$array_month という配列に1月〜12月の文字列を代入し、echoで8月を表示してみましょう。
 $array_month = array('1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月');
 echo $array_month[7];
+
+
 
 //課題３
 //$hello　という変数に　”Hello, “を $name という変数にあなたの名前を、　
@@ -25,12 +29,16 @@ $name = 'KOSAKU';
 $world = "'s world!";
 echo $hello.$name.$world;
 
+
+
 //課題４
 //$tech_boostに “tech “という文字列が代入されています。複合演算を使って、echo $tech_boostと実行すると「tech boost」と表示されるように実装してみましょう。
 
 $tech_boost = 'tech';
 $tech_boost .= ' boost';
 echo $tech_boost;
+
+
 
 //課題５
 //【応用】次のプログラムにはバグがあります。どこにバグが有るか調べて修正してみましょう。(バグは一つとは限りません。)
